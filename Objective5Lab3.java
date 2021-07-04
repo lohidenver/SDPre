@@ -10,7 +10,7 @@ public class Objective5Lab3 {
         System.out.println("Your number is negative.");
       }
       else {
-        System.out.println("Your number is neither positive or negative.");
+        System.out.println("Your number is neither positive nor negative.");
       }
 
       scanner.close();
