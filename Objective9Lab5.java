@@ -49,10 +49,10 @@ class Objective9Labs5 {
         System.out.println("That is not a valid choice.");
        break;
 
-		  }
-		//kb.close();
-
-	   }
+     }
+   }
+		kb.close();
+ 
 }
 
 	public static void printMenu() {
